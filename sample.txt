@@ -1,6 +1,1 @@
-Hi,
-I gangadhar.
-Hi,
-Hlo,
-I am a student.
-Hi People
+this is sample.txt
